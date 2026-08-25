@@ -43,8 +43,6 @@ Below is the execution profile comparing the native **vectorized CPU engine (Num
 
 > *Note on Benchmarking Rigor: The JIT (Just-In-Time) compilation overhead of Numba is strictly excluded from our performance metrics by executing an un-timed hardware warm-up pass prior to launching `time.perf_counter()`.*
 
-![Benchmark S-Curve](benchmark_s_curve.png)
-
 ---
 
 ## 🛠️ Project Structure & Execution
