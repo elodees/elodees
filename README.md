@@ -32,6 +32,7 @@ The kernels and execution grids are mathematically tailored and optimized for th
 ---
 
 ## 📊 Performance Benchmark
+<img width="2400" height="1350" alt="benchmark_s_curve" src="https://github.com/user-attachments/assets/68f30f45-bf2d-4319-9b0f-77ebfb5eab85" />
 
 Below is the execution profile comparing the native **vectorized CPU engine (NumPy)** against our **parallelized GPU engine (Numba CUDA)** processing a `2048 x 2048 x 3` `float32` matrix with a dynamic tile allocation size of `1024`.
 
