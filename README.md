@@ -64,7 +64,7 @@ The pipeline filters are structured numerically to track their position within t
 
 ## 🛡️ Legal Compliance & Security
 
-* **Dependency Auditing:** This repository is compliant with software composition analysis standards. It has been validated using `scancode-toolkit`, `scanoss`, and `pip-licenses` to ensure all underlying algorithms conform strictly to permissive open-source licenses (MIT/Apache 2.0).
+* **Dependency Auditing:** This repository is compliant with software composition analysis standards. It has been validated using `scancode-toolkit`, `scanoss`, and `pip-licenses` to ensure all underlying algorithms conform strictly to permissive open-source licenses (Apache 2.0).
 * **Metadata Sanitization:** All sample images used within testing modules have been programmatically scrubbed of private EXIF data, GPS geolocation parameters, and camera serial numbers using `exiftool`.
 
 ---
